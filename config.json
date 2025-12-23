@@ -1,0 +1,13 @@
+{
+    "lots": [
+	    "RUB", 
+            "BTC", 
+            "ETH", 
+            "USDT", 
+            "USDC",
+	    "SOL",
+	    "DOGE"
+    ],
+    "database_ip": "192.168.0.10",
+    "database_port": 7432
+}
